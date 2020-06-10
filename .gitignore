@@ -1,0 +1,11 @@
+*.swp
+*.iml
+
+.DS_Store
+.idea
+.classpath
+.project
+.settings
+.eclipse
+
+target/
